@@ -2,7 +2,6 @@ discord.py
 aiohttp
 websockets
 chardet
-time
 requests
 asyncio
 os
