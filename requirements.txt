@@ -1,5 +1,5 @@
 discord.py
-requests
+requests.py
 aiohttp
 websockets
 chardet
