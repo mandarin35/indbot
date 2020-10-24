@@ -1,0 +1,11 @@
+discord.py
+aiohttp
+websockets
+chardet
+discord.ext
+discord.utils
+time
+requests
+asyncio
+os
+random
