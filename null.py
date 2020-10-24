@@ -436,4 +436,5 @@ async def clear_error(ctx, error, member = discord.Member):
 		await ctx.send(embed = emb)
 
 # token
-client.run('NzYyMzEyNzE3MzE4MDk0ODg4.X3nVCg.IHqarT-WfEFKrwF4H2lBf0FsDTA')
+token = os.environ.get('BOT_TOKEN')
+client.run(str(token))
