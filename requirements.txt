@@ -4,5 +4,3 @@ websockets
 chardet
 requests
 asyncio
-os
-random
