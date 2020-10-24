@@ -1,6 +1,6 @@
 discord.py
 requests
-os.py
+os
 aiohttp
 websockets
 chardet
